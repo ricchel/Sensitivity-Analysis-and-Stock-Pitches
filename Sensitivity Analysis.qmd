@@ -63,4 +63,7 @@ barplot(c(market_cap, pv_cf), names.arg = c("Market Cap", "DCF Value"),
         col = c("lightblue", "darkgreen"),
         main = "Market vs. Intrinsic Value")
 # Shoes intrinsic value of company is 418% higher than current market cap. indicates potential upside, suggesting undervalued at current price
+
+
+
 ```
